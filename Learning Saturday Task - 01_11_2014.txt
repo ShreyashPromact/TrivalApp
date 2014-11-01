@@ -1,0 +1,30 @@
+I have cover three points on this Learning Saturday.
+------------------------------------------------------
+
+
+In- Purchase in Google Play Store
+-----------------------------------
+
+I have to work for the In-App Purchase for the Android app. As Google has updated it from Version 2 to version 3. Version 2 will not going to work after January 2015 on wards So it is required to update all in-App purchase in to new implemented In-APP Purchase code.
+
+I have refer below link of Developer site and try to implement In-App Purchase for the android app.
+http://developer.android.com/google/play/billing/billing_integrate.html
+
+I have updated some of the project code and then need to update it on Google Play with respect to have In-App Purchase.
+
+As it is required to have purchased GooglePlay account and that account should also be configured in to the Marchant Account, i am not able to continue more on it.
+
+
+
+Material theme For android L
+-----------------------------------
+
+Now a days Many client need have material design with in the app. I have refer the developer site for the material design as below.
+https://developer.android.com/training/material/index.html
+
+Before to start with the Material design i have download some of the openSource demo to see the effect of the Material design. But as it is required latest Android OS L to run and execute it.
+
+Now, I need to update android SDK but its really big in Size. So i have stop downloading it and continue reviewing for how to apply theme for the Android L.
+
+
+After that all i have work for the issue i am facing in the Existing project (Music App) and for having good animation effect in the app.
